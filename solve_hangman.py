@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Hangman Solver - Automat
-Autor: ChatGPT (pentru proiect educațional)
-"""
 
 import argparse
 import csv
