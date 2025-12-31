@@ -20,8 +20,6 @@ Structura Proiect
 ├── requirements.txt
 └── README.md
 
-Cerinte
-- Python 3.6+
 
 Format fișier de input
 Fiecare linie din words.txt trebuie să fie de forma urmatoare
