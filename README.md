@@ -35,12 +35,11 @@ Exemplu: 1, 12, omagiali, OK, omagil
 
 La final, este afișat și numărul total de încercări
 
----
 
 Ghid Rulare
 1. Asigură-te că ești în folderul principal al proiectului.
 2. Asigură-te că fisierul "data\words.txt" exista si este valid.
-3. Rulează cu double click: src/hangman.py sau, din command prompt: {locatia folderului de proiect}\src\hangman.py
+3. Rulează cu double click: src/hangman.py sau, din command prompt
 
 Botul va:
 - citi cuvintele din data/words.txt
