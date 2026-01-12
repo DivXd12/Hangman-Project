@@ -30,7 +30,7 @@ def best_letter_by_freq(candidates, guessed):
                 cnt[ch] += 1
     return cnt.most_common(1)[0][0] if cnt else None
 
-
+ 
 def solve_instance(pattern, target, words):
     guessed_letters = set()
     attempts = 0
