@@ -48,7 +48,7 @@ def solve_instance(pattern, target, words):
         guessed_letters.add(letter)
         attempts += 1
 
-        # feedback: actualizează patternul bazat pe target
+    
         new_pattern = "".join(
             [letter if target[i] == letter or pattern[i] != "*" else pattern[i] for i in range(L)]
         )
