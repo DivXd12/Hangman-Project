@@ -9,16 +9,16 @@ Acest proiect implementează un bot de spânzurătoare pentru cuvinte româneșt
 Rezultatul: botul rezolvă automat lista data de cuvinte in folderul "data" și salvează rezultatele în "results/results.txt"
 
 Structura Proiect
-├── src/
-│   └── hangman.py
-├── data/
-│   └── words.txt
-├── results/
-│   ├── results.txt
-│   └── errors.txt
-├── docs/
-├── requirements.txt
-└── README.md
+--> src/
+--> hangman.py
+--> data/
+    --> words.txt
+--> results/
+    --> results.txt
+    --> errors.txt
+--> docs/
+--> requirements.txt
+--> README.md
 
 
 Format fișier de input
